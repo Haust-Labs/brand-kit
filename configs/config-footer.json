@@ -1,0 +1,46 @@
+[
+    {
+      "title": "Developers",
+      "links": [
+        {
+          "text": "Documentation",
+          "url": "https://docs.haust.network/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/Haust-Labs"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+            "text": "Telegram",
+            "url": "https://t.me/haustnetwork"
+          },
+        {
+          "text": "Twitter X",
+          "url": "https://twitter.com/HaustNetwork"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/QWGxjTXD8N"
+        },
+        {
+          "text": "Medium",
+          "url": "https://medium.com/@haustnetwork"
+        }
+      ]
+    },
+    {
+      "title": "About Haust",
+      "links": [
+        {
+          "text": "About",
+          "url": "https://haust.network/"
+        }
+      ]
+    }
+     
+  ]
